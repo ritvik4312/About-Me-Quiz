@@ -5,6 +5,7 @@ export default function WrongAnswers( {userAnswers, Qbank}){
         if (answer != Qbank[index].answer){
           return(
               <div>
+                <p className="answer">{Qbank[index].question}</p>
                 <p className="answer">your answer: {answer}</p>
                 <p className="correct">right answer: {Qbank[index].answer}</p>
               </div>

@@ -7,7 +7,7 @@ export const Qbank = [{
   option: ["Soccer","Basketball","Football","Hockey"],
   answer: "Soccer"
 },{
-  question: "When is my favourite Book?",
+  question: "What is my favourite Book?",
   option: ["The Alchemist","The Giving Tree","Ikigai","Outwitting the Devil"],
   answer: "The Giving Tree"
 },{
