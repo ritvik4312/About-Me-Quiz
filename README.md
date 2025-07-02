@@ -1,12 +1,15 @@
-# React + Vite
+About Me Quiz
+This interactive "About Me" quiz was developed using React as a practical project to reinforce and deepen my understanding of fundamental React concepts. This project lets users answer questions about me and see how well they know me.
 
-This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
+Features
+• Multiple choice questions
 
-Currently, two official plugins are available:
+• feedback on answers
 
-- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react) uses [Babel](https://babeljs.io/) for Fast Refresh
-- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react-swc) uses [SWC](https://swc.rs/) for Fast Refresh
+• Score tracking
 
-## Expanding the ESLint configuration
+• Responsive and user-friendly UI
 
-If you are developing a production application, we recommend using TypeScript with type-aware lint rules enabled. Check out the [TS template](https://github.com/vitejs/vite/tree/main/packages/create-vite/template-react-ts) for information on how to integrate TypeScript and [`typescript-eslint`](https://typescript-eslint.io) in your project.
+Live Demo
+The quiz is hosted on GitHub Pages and can be accessed here:
+https://ritvik4312.github.io/About-Me-Quiz/
